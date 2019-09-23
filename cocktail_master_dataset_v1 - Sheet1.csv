@@ -1,0 +1,776 @@
+cocktail,ingredient_primary,ingredient_sub,measure,amount
+Negroni,Gin,London Dry,Ounce,1
+Negroni,Vermouth,Sweet,Ounce,1
+Negroni,Campari,,Ounce,1
+Negroni,Orange Twist,,Garnish,1
+Negroni,Stir,,Method,1
+Negroni,Rocks,,Serve,1
+Margarita,Tequila,Blanco,Ounce,1
+Margarita,Lime,,Ounce,0.75
+Margarita,Curacao,,Ounce,0.5
+Margarita,Simple Syrup,,Ounce,0.25
+Margarita,Lime Wheel,,Garnish,1
+Margarita,Shake,,Method,1
+Margarita,Rocks,,Serve,1
+Manhattan,Rye,,Ounce,2
+Manhattan,Vermouth,Sweet,Ounce,1
+Manhattan,Angostura Bitters,,Dash,2
+Manhattan,Stir,,Method,1
+Manhattan,Up,,Serve,1
+Daiquiri,Rum,White,Ounce,2
+Daiquiri,Lime,,Ounce,0.75
+Daiquiri,Simple Syrup,,Ounce,0.75
+Daiquiri,Shake,,Method,1
+Daiquiri,Up,,Serve,1
+Boulevardier,Bourbon,,Ounce,1.5
+Boulevardier,Vermouth,Sweet,Ounce,0.75
+Boulevardier,Campari,,Ounce,0.75
+Boulevardier,Orange Twist,,Garnish,1
+Boulevardier,Stir,,Method,1
+Boulevardier,Up,,Serve,1
+Corpse Reviver #2,Gin,London Dry,Ounce,0.75
+Corpse Reviver #2,Aromatized Wine,Bitter,Ounce,0.75
+Corpse Reviver #2,Curacao,,Ounce,0.75
+Corpse Reviver #2,Lemon,,Ounce,0.75
+Corpse Reviver #2,Absinthe,,Dash,2
+Corpse Reviver #2,Shake,,Method,1
+Corpse Reviver #2,Up,,Serve,1
+12 Mile Limit,Rum,White,Ounce,1
+12 Mile Limit,Cognac,,Ounce,0.5
+12 Mile Limit,Rye,,Ounce,0.5
+12 Mile Limit,Lemon,,Ounce,0.75
+12 Mile Limit,Grenadine,,Ounce,0.75
+12 Mile Limit,Peychaud's Bitters,,Dash,2
+12 Mile Limit,Shake,,Method,1
+12 Mile Limit,Up,,Serve,1
+20th Century,Gin,,Ounce,1.5
+20th Century,Aromatized Wine,Bitter,Ounce,0.75
+20th Century,Creme de Cacao,,Ounce,0.75
+20th Century,Lemon,,Ounce,0.75
+20th Century,Shake,,Method,1
+20th Century,Up,,Serve,1
+Airmail,Rum,White,Ounce,1.5
+Airmail,Lime,,Ounce,0.75
+Airmail,Honey Syrup,,Ounce,0.75
+Airmail,Sparkling Wine,,Ounce,2
+Airmail,Shake,,Method,1
+Airmail,Up,,Serve,1
+Sazerac,Rye,,Ounce,2
+Sazerac,Rich Simple Syrup,,Ounce,0.25
+Sazerac,Peychaud's Bitters,,Dash,2
+Sazerac,Pernod Absinthe,,Dash,1
+Sazerac,Lemon Twist,,Garnish,1
+Sazerac,Stir,,Method,1
+Sazerac,Up,,Serve,1
+Vieux Carre,Rye,,Ounce,1
+Vieux Carre,Cognac,,Ounce,1
+Vieux Carre,Vermouth,Sweet,Ounce,1
+Vieux Carre,Benedictine,,Ounce,0.1667
+Vieux Carre,Angostura Bitters,,Dash,1
+Vieux Carre,Peychaud's Bitters,,Dash,1
+Vieux Carre,Stir,,Method,1
+Vieux Carre,Rocks,,Serve,1
+Old Fashioned,Bourbon,,Ounce,2
+Old Fashioned,Rich Simple Syrup,,Ounce,0.25
+Old Fashioned,Angostura Bitters,,Dash,2
+Old Fashioned,Orange Twist,,Garnish,1
+Old Fashioned,Lemon Twist,,Garnish,1
+Old Fashioned,Stir,,Method,1
+Old Fashioned,Rocks,,Serve,1
+Vermouth Cocktail,Vermouth,Sweet,Ounce,2
+Vermouth Cocktail,Simple Syrup,,Ounce,0.125
+Vermouth Cocktail,Angostura Bitters,,Dash,2
+Vermouth Cocktail,Orange Bitters,,Dash,1
+Vermouth Cocktail,Lemon Twist,,Garnish,1
+Vermouth Cocktail,Stir,,Method,1
+Vermouth Cocktail,Up,,Serve,1
+Ti' Punch,Rum,Agricole Blanc,Ounce,2
+Ti' Punch,Cane Sugar Syrup,,Ounce,0.1667
+Ti' Punch,Lime,,Ounce,0.125
+Ti' Punch,Lime Peel,,Garnish,1
+Ti' Punch,Stir,,Method,1
+Ti' Punch,Rocks,,Serve,1
+Fancy Free,Rye,,Ounce,2
+Fancy Free,Maraschino Liqueur,,Ounce,0.5
+Fancy Free,Angostura Bitters,,Dash,1
+Fancy Free,Orange Bitters,,Dash,1
+Fancy Free,Orange Twist,,Garnish,1
+Fancy Free,Stir,,Method,1
+Fancy Free,Rocks,,Serve,1
+Monte Carlo,Rye,,Ounce,2
+Monte Carlo,Benedictine,,Ounce,0.5
+Monte Carlo,Angostura Bitters,,Dash,2
+Monte Carlo,Lemon Twist,,Garnish,1
+Monte Carlo,Stir,,Method,1
+Monte Carlo,Rocks,,Serve,1
+Chrysanthemum,Vermouth,Dry,Ounce,2.5
+Chrysanthemum,Benedictine,,Ounce,0.5
+Chrysanthemum,Absinthe,,Ounce,0.1667
+Chrysanthemum,Orange Twist,,Garnish,1
+Chrysanthemum,Stir,,Method,1
+Chrysanthemum,Up,,Serve,1
+Stinger,Cognac,,Ounce,2
+Stinger,Creme de Methe,,Ounce,0.75
+Stinger,Shake,,Method,1
+Stinger,Up,,Serve,1
+Improved Whiskey Cocktail,Bourbon,,Ounce,2
+Improved Whiskey Cocktail,Maraschino Liqueur,,Ounce,0.1667
+Improved Whiskey Cocktail,Absinthe,,Dash,1
+Improved Whiskey Cocktail,Angostura Bitters,,Dash,1
+Improved Whiskey Cocktail,Peychaud's Bitters,,Dash,1
+Improved Whiskey Cocktail,Lemon Twist,,Garnish,1
+Improved Whiskey Cocktail,Stir,,Method,1
+Improved Whiskey Cocktail,Rocks,,Serve,1
+Champagne Cocktail,Sparkling Wine,,Ounce,4
+Champagne Cocktail,Simple Syrup,,Ounce,0.25
+Champagne Cocktail,Angostura Bitters,,Dash,1
+Champagne Cocktail,Lemon Twist,,Garnish,1
+Champagne Cocktail,Stir,,Method,1
+Champagne Cocktail,Up,,Serve,1
+Mint Julep,Bourbon,,Ounce,2
+Mint Julep,Simple Syrup,,Ounce,0.25
+Mint Julep,Mint Leaves,,Adjunct,5
+Mint Julep,Mint Sprig,,Garnish,1
+Mint Julep,Stir,,Method,1
+Mint Julep,Crushed,,Serve,1
+Sherry Cobbler,Sherry,Amontillado,Ounce,3.5
+Sherry Cobbler,Simple Syrup,,Ounce,0.5
+Sherry Cobbler,Orange Slice,,Adjunct,1
+Sherry Cobbler,Shake,,Method,1
+Sherry Cobbler,Crushed,,Serve,1
+Martini,Gin,London Dry,Ounce,2
+Martini,Vermouth,Dry,Ounce,1
+Martini,Lemon Twist,,Garnish,1
+Martini,Stir,,Method,1
+Martini,Up,,Serve,1
+Vesper,Gin,London Dry,Ounce,1.5
+Vesper,Vodka,,Ounce,0.75
+Vesper,Aromatized Wine,Bitter,Ounce,0.5
+Vesper,Lemon Twist,,Garnish,1
+Vesper,Stir,,Method,1
+Vesper,Up,,Serve,1
+Poet's Dream,Gin,London Dry,Ounce,2
+Poet's Dream,Vermouth,Dry,Ounce,0.75
+Poet's Dream,Benedictine,,Ounce,0.25
+Poet's Dream,Orange Bitters,,Dash,1
+Poet's Dream,Lemon Twist,,Garnish,1
+Poet's Dream,Stir,,Method,1
+Poet's Dream,Up,,Serve,1
+La Rosita,Tequila,Reposado,Ounce,1.5
+La Rosita,Vermouth,Sweet,Ounce,0.5
+La Rosita,Vermouth,Dry,Ounce,0.5
+La Rosita,Campari,,Ounce,0.5
+La Rosita,Angostura Bitters,,Dash,1
+La Rosita,Orange Twist,,Garnish,1
+La Rosita,Stir,,Method,1
+La Rosita,Up,,Serve,1
+Old Pal,Rye,,Ounce,1.5
+Old Pal,Vermouth,Dry,Ounce,0.75
+Old Pal,Campari,,Ounce,0.75
+Old Pal,Lemon Twist,,Garnish,1
+Old Pal,Stir,,Method,1
+Old Pal,Up,,Serve,1
+Bamboo,Sherry,Amontillado,Ounce,1.5
+Bamboo,Vermouth,Dry,Ounce,1.5
+Bamboo,Orange Bitters,,Dash,2
+Bamboo,Lemon Twist,,Garnish,1
+Bamboo,Stir,,Method,1
+Bamboo,Up,,Serve,1
+Amaretto Sour,Amaretto,,Ounce,2
+Amaretto Sour,Lemon,,Ounce,1
+Amaretto Sour,Simple Syrup,,Ounce,0.25
+Amaretto Sour,Angostura Bitters,,Dash,1
+Amaretto Sour,Orange Slice,,Garnish,1
+Amaretto Sour,Cherry,,Garnish,1
+Amaretto Sour,Shake,,Method,1
+Amaretto Sour,Rocks,,Serve,1
+Gimlet,Gin,,Ounce,2
+Gimlet,Lime,,Ounce,1
+Gimlet,Simple Syrup,,Ounce,0.75
+Gimlet,Lime Wedge,,Garnish,1
+Gimlet,Shake,,Method,1
+Gimlet,Up,,Serve,1
+Pisco Sour,Pisco,,Ounce,2
+Pisco Sour,Lime,,Ounce,0.5
+Pisco Sour,Lemon,,Ounce,0.25
+Pisco Sour,Simple Syrup,,Ounce,0.75
+Pisco Sour,Egg White,,Adjunct,1
+Pisco Sour,Angostura Bitters,,Garnish,1
+Pisco Sour,Shake,,Method,1
+Pisco Sour,Up,,Serve,1
+Hemingway Daiquiri,Rum,White,Ounce,1.5
+Hemingway Daiquiri,Maraschino Liqueur,,Ounce,0.5
+Hemingway Daiquiri,Grapefruit Juice,,Ounce,1
+Hemingway Daiquiri,Lime,,Ounce,0.5
+Hemingway Daiquiri,Simple Syrup,,Ounce,0.1667
+Hemingway Daiquiri,Shake,,Method,1
+Hemingway Daiquiri,Up,,Serve,1
+Zombie Punch,Rum,Dark,Ounce,2.5
+Zombie Punch,Rum,Overproof,Ounce,0.75
+Zombie Punch,Donn's Mix No. 1,,Ounce,0.5
+Zombie Punch,Lime,,Ounce,0.75
+Zombie Punch,Falernum,,Ounce,0.5
+Zombie Punch,Grenadine,,Ounce,0.1667
+Zombie Punch,Absinthe,,Dash,2
+Zombie Punch,Pineapple Wedge,,Garnish,1
+Zombie Punch,Orange Slice,,Garnish,1
+Zombie Punch,Cherry,,Garnish,1
+Zombie Punch,Shake,,Method,1
+Zombie Punch,Crushed,,Serve,1
+Southside,Gin,,Ounce,2
+Southside,Lime,,Ounce,0.75
+Southside,Simple Syrup,,Ounce,0.75
+Southside,Mint Leaves,,Adjunct,5
+Southside,Angostura Bitters,,Dash,1
+Southside,Shake,,Method,1
+Southside,Up,,Serve,1
+Jack Rose,Apple Brandy,,Ounce,2
+Jack Rose,Lime,,Ounce,0.75
+Jack Rose,Grenadine,,Ounce,0.75
+Jack Rose,Shake,,Method,1
+Jack Rose,Up,,Serve,1
+Bee's Knees,Gin,,Ounce,2
+Bee's Knees,Lemon,,Ounce,0.75
+Bee's Knees,Honey Syrup,,Ounce,0.75
+Bee's Knees,Shake,,Method,1
+Bee's Knees,Up,,Serve,1
+Pink Lady,Gin,,Ounce,1.5
+Pink Lady,Apple Brandy,,Ounce,0.5
+Pink Lady,Lemon,,Ounce,0.5
+Pink Lady,Grenadine,,Ounce,0.5
+Pink Lady,Simple Syrup,,Ounce,0.5
+Pink Lady,Egg White,,Adjunct,1
+Pink Lady,Cherry,,Garnish,1
+Pink Lady,Shake,,Method,1
+Pink Lady,Up,,Serve,1
+Whiskey Sour,Bourbon,,Ounce,2
+Whiskey Sour,Lemon,,Ounce,0.75
+Whiskey Sour,Simple Syrup,,Ounce,1
+Whiskey Sour,Egg White,,Adjunct,1
+Whiskey Sour,Shake,,Method,1
+Whiskey Sour,Rocks,,Serve,1
+Whiskey Sour,Cherry,,Garnish,1
+Brown Derby,Bourbon,,Ounce,2
+Brown Derby,Grapefruit Juice,,Ounce,1
+Brown Derby,Lemon,,Ounce,0.1667
+Brown Derby,Honey Syrup,,Ounce,0.5
+Brown Derby,Shake,,Method,1
+Brown Derby,Up,,Serve,1
+Mojito,Rum,White,Ounce,2
+Mojito,Lime,,Ounce,0.75
+Mojito,Simple Syrup,,Ounce,0.75
+Mojito,Mint Leaves,,Adjunct,5
+Mojito,Seltzer,,Ounce,2
+Mojito,Mint Sprig,,Garnish,1
+Mojito,Shake,,Method,1
+Mojito,Collins,,Serve,1
+Mai Tai,Rum,White,Ounce,1
+Mai Tai,Rum,Agricole Blanc,Ounce,1
+Mai Tai,Lime,,Ounce,0.75
+Mai Tai,Curacao,,Ounce,0.5
+Mai Tai,Orgeat,,Ounce,0.5
+Mai Tai,Mint Sprig,,Garnish,1
+Mai Tai,Shake,,Method,1
+Mai Tai,Crushed,,Serve,1
+Caipirinha,Cachaca,,Ounce,2
+Caipirinha,Lime Wedge,,Adjunct,6
+Caipirinha,Simple Syrup,,Ounce,1
+Caipirinha,Shake,,Method,1
+Caipirinha,Rocks,,Serve,1
+Tom Collins,Gin,London Dry,Ounce,2
+Tom Collins,Lemon,,Ounce,0.75
+Tom Collins,Simple Syrup,,Ounce,0.75
+Tom Collins,Seltzer,,Ounce,2
+Tom Collins,Lemon Twist,,Garnish,1
+Tom Collins,Shake,,Method,1
+Tom Collins,Collins,,Serve,1
+Moscow Mule,Vodka,,Ounce,2
+Moscow Mule,Lime,,Ounce,0.75
+Moscow Mule,Ginger Syrup,,Ounce,0.5
+Moscow Mule,Simple Syrup,,Ounce,0.25
+Moscow Mule,Seltzer,,Ounce,2
+Moscow Mule,Lime Wheel,,Garnish,1
+Moscow Mule,Shake,,Method,1
+Moscow Mule,Collins,,Serve,1
+Dark and Stormy,Rum,Dark,Ounce,2
+Dark and Stormy,Lime,,Ounce,0.75
+Dark and Stormy,Ginger Syrup,,Ounce,0.75
+Dark and Stormy,Seltzer,,Ounce,2
+Dark and Stormy,Lime Wheel,,Garnish,1
+Dark and Stormy,Shake,,Method,1
+Dark and Stormy,Collins,,Serve,1
+Silver Fizz,Gin,London Dry,Ounce,2
+Silver Fizz,Lemon,,Ounce,0.75
+Silver Fizz,Simple Syrup,,Ounce,0.75
+Silver Fizz,Egg White,,Adjunct,1
+Silver Fizz,Seltzer,,Ounce,2
+Silver Fizz,Shake,,Method,1
+Silver Fizz,Fizz,,Serve,1
+Ramos Gin Fizz,Gin,London Dry,Ounce,2
+Ramos Gin Fizz,Lemon,,Ounce,0.5
+Ramos Gin Fizz,Lime,,Ounce,0.5
+Ramos Gin Fizz,Simple Syrup,,Ounce,1
+Ramos Gin Fizz,Heavy Cream,,Ounce,1
+Ramos Gin Fizz,Orange Flower Water,,Dash,0.5
+Ramos Gin Fizz,Seltzer,,Ounce,2
+Ramos Gin Fizz,Shake,,Method,1
+Ramos Gin Fizz,Fizz,,Serve,1
+Presbyterian,Rye,,Ounce,2
+Presbyterian,Lemon,,Ounce,0.5
+Presbyterian,Lime,,Ounce,0.5
+Presbyterian,Ginger Syrup,,Ounce,0.75
+Presbyterian,Shake,,Method,1
+Presbyterian,Collins,,Serve,1
+Presbyterian,Lime Wheel,,Garnish,1
+French 75,Gin,,Ounce,1
+French 75,Lemon,,Ounce,0.5
+French 75,Simple Syrup,,Ounce,0.5
+French 75,Sparkling Wine,,Ounce,4
+French 75,Lemon Twist,,Garnish,1
+French 75,Shake,,Method,1
+French 75,Up,,Serve,1
+Monkey Gland,Gin,Plymouth,Ounce,2
+Monkey Gland,Orange Juice,,Ounce,1
+Monkey Gland,Grenadine,,Ounce,0.1667
+Monkey Gland,Absinthe,,Dash,2
+Monkey Gland,Shake,,Method,1
+Monkey Gland,Up,,Serve,1
+Sidecar,Cognac,,Ounce,2
+Sidecar,Lemon,,Ounce,0.75
+Sidecar,Curacao,,Ounce,1
+Sidecar,Orange Twist,,Garnish,1
+Sidecar,Shake,,Method,1
+Sidecar,Up,,Serve,1
+White Lady,Gin,Plymouth,Ounce,2
+White Lady,Lemon,,Ounce,0.75
+White Lady,Curacao,,Ounce,0.5
+White Lady,Simple Syrup,,Ounce,0.25
+White Lady,Egg White,,Adjunct,1
+White Lady,Lemon Twist,,Garnish,1
+White Lady,Shake,,Method,1
+White Lady,Up,,Serve,1
+20th Century,Gin,London Dry,Ounce,1.5
+20th Century,Lemon,,Ounce,0.75
+20th Century,Aromatized Wine,Bitter,Ounce,0.75
+20th Century,Creme de Cacao,,Ounce,0.5
+20th Century,Simple Syrup,,Ounce,0.25
+20th Century,Shake,,Method,1
+20th Century,Up,,Serve,1
+Last Word,Gin,London Dry,Ounce,0.75
+Last Word,Lime,,Ounce,0.75
+Last Word,Green Chartreuse,,Ounce,0.75
+Last Word,Maraschino Liqueur,,Ounce,0.75
+Last Word,Shake,,Method,1
+Last Word,Up,,Serve,1
+Cosmopolitan,Vodka,Citrus,Ounce,2
+Cosmopolitan,Lime,,Ounce,0.5
+Cosmopolitan,Cranberry Juice,,Ounce,0.5
+Cosmopolitan,Curacao,,Ounce,0.75
+Cosmopolitan,Simple Syrup,,Ounce,0.5
+Cosmopolitan,Lime Wheel,,Garnish,1
+Cosmopolitan,Shake,,Method,1
+Cosmopolitan,Up,,Serve,1
+Pegu Club,Gin,,Ounce,2
+Pegu Club,Lime,,Ounce,0.75
+Pegu Club,Curacao,,Ounce,0.75
+Pegu Club,Angostura Bitters,,Dash,2
+Pegu Club,Lime Wheel,,Garnish,1
+Pegu Club,Shake,,Method,1
+Pegu Club,Up,,Serve,1
+Champs-Elysees,Cognac,,Ounce,2
+Champs-Elysees,Lemon,,Ounce,0.75
+Champs-Elysees,Yellow Chartreuse,,Ounce,0.5
+Champs-Elysees,Simple Syrup,,Ounce,0.25
+Champs-Elysees,Angostura Bitters,,Dash,2
+Champs-Elysees,Lemon Twist,,Garnish,1
+Champs-Elysees,Shake,,Method,1
+Champs-Elysees,Up,,Serve,1
+Blood and Sand,Scotch,Blended,Ounce,1
+Blood and Sand,Vermouth,Sweet,Ounce,0.75
+Blood and Sand,Cherry Heering,,Ounce,0.75
+Blood and Sand,Orange Juice,,Ounce,1
+Blood and Sand,Shake,,Method,1
+Blood and Sand,Up,,Serve,1
+Whisky Highball,Scotch,Blended,Ounce,2
+Whisky Highball,Seltzer,,Ounce,4
+Whisky Highball,Lemon Twist,,Garnish,1
+Whisky Highball,Highball,,Method,1
+Whisky Highball,Collins,,Serve,1
+Americano,Campari,,Ounce,1
+Americano,Vermouth,Sweet,Ounce,1
+Americano,Seltzer,,Ounce,4
+Americano,Orange Slice,,Garnish,1
+Americano,Highball,,Method,1
+Americano,Collins,,Serve,1
+Paloma,Tequila,Blanco,Ounce,2
+Paloma,Squirt Soda,,Ounce,4
+Paloma,Lime,,Ounce,0.25
+Paloma,Lime Wheel,,Garnish,1
+Paloma,Salt,,Garnish,1
+Paloma,Highball,,Method,1
+Paloma,Collins,,Serve,1
+Cuba Libre,Rum,White,Ounce,2
+Cuba Libre,Coca-Cola,,Ounce,4
+Cuba Libre,Lime,,Ounce,0.25
+Cuba Libre,Angostura Bitters,,Dash,2
+Cuba Libre,Lime Wedge,,Garnish,1
+Cuba Libre,Highball,,Method,1
+Cuba Libre,Collins,,Serve,1
+Negroni Sbagliato,Campari,,Ounce,1
+Negroni Sbagliato,Vermouth,Sweet,Ounce,1
+Negroni Sbagliato,Sparkling Wine,,Ounce,1
+Negroni Sbagliato,Orange Slice,,Garnish,1
+Negroni Sbagliato,Highball,,Method,1
+Negroni Sbagliato,Collins,,Serve,1
+Gin and Tonic,Gin,London Dry,Ounce,2
+Gin and Tonic,Tonic Water,,Ounce,4
+Gin and Tonic,Lime Wedge,,Garnish,1
+Gin and Tonic,Highball,,Method,1
+Gin and Tonic,Collins,,Serve,1
+Aperol Spritz,Aperol,,Ounce,2
+Aperol Spritz,Sparkling Wine,,Ounce,3
+Aperol Spritz,Seltzer,,Ounce,1
+Aperol Spritz,Grapefruit Twist,,Garnish,1
+Aperol Spritz,Highball,,Method,1
+Aperol Spritz,Collins,,Serve,1
+Coffee Cocktail,Port,,Ounce,1.5
+Coffee Cocktail,Cognac,,Ounce,1
+Coffee Cocktail,Simple Syrup,,Ounce,0.25
+Coffee Cocktail,Whole Egg,,Adjunct,1
+Coffee Cocktail,Nutmeg,,Garnish,1
+Coffee Cocktail,Shake,,Method,1
+Coffee Cocktail,Up,,Serve,1
+Brandy Flip,Cognac,,Ounce,2
+Brandy Flip,Rich Simple Syrup,,Ounce,0.75
+Brandy Flip,Whole Egg,,Adjunct,1
+Brandy Flip,Nutmeg,,Garnish,1
+Brandy Flip,Shake,,Method,1
+Brandy Flip,Up,,Serve,1
+Brandy Alexander,Cognac,,Ounce,1.5
+Brandy Alexander,Creme de Cacao,,Ounce,1
+Brandy Alexander,Heavy Cream,,Ounce,1
+Brandy Alexander,Nutmeg,,Garnish,1
+Brandy Alexander,Shake,,Method,1
+Brandy Alexander,Up,,Serve,1
+New York Flip,Bourbon,,Ounce,1
+New York Flip,Port,,Ounce,1
+New York Flip,Simple Syrup,,Ounce,0.5
+New York Flip,Heavy Cream,,Ounce,0.75
+New York Flip,Egg Yolk,,Adjunct,1
+New York Flip,Shake,,Method,1
+New York Flip,Up,,Serve,1
+Grasshopper,Creme de Menthe,,Ounce,1
+Grasshopper,Creme de Cacao,,Ounce,1
+Grasshopper,Heavy Cream,,Ounce,1
+Grasshopper,Mint Sprig,,Garnish,1
+Grasshopper,Shake,,Method,1
+Grasshopper,Up,,Serve,1
+Golden Cadillac,Galliano,,Ounce,1
+Golden Cadillac,Creme de Cacao,,Ounce,1
+Golden Cadillac,Heavy Cream,,Ounce,1
+Golden Cadillac,Shake,,Method,1
+Golden Cadillac,Up,,Serve,1
+Pina Colada,Rum,White,Ounce,1
+Pina Colada,Rum,Dark,Ounce,1
+Pina Colada,Pineapple Juice,,Ounce,1
+Pina Colada,Coconut Cream,,Ounce,1
+Pina Colada,Cherry,,Garnish,1
+Pina Colada,Shake,,Method,1
+Pina Colada,Crushed,,Serve,1
+Affinity,Scotch,Blended,Ounce,2
+Affinity,Vermouth,Sweet,Ounce,0.5
+Affinity,Vermouth,Dry,Ounce,0.5
+Affinity,Angostura Bitters,,Dash,1
+Affinity,Lemon Twist,,Garnish,1
+Affinity,Stir,,Method,1
+Affinity,Up,,Serve,1
+Aviation,Gin,Plymouth,Ounce,2
+Aviation,Lemon,,Ounce,0.75
+Aviation,Maraschino Liqueur,,Ounce,0.5
+Aviation,Creme de Violette,,Ounce,0.1667
+Aviation,Simple Syrup,,Ounce,0.25
+Aviation,Cherry,,Garnish,1
+Aviation,Shake,,Method,1
+Aviation,Up,,Serve,1
+Bobby Burns,Scotch,Blended,Ounce,2
+Bobby Burns,Vermouth,Sweet,Ounce,0.75
+Bobby Burns,Benedictine,,Ounce,0.1667
+Bobby Burns,Lemon Twist,,Garnish,1
+Bobby Burns,Stir,,Method,1
+Bobby Burns,Up,,Serve,1
+Rob Roy,Scotch,Blended,Ounce,2
+Rob Roy,Vermouth,Sweet,Ounce,1
+Rob Roy,Angostura Bitters,,Dash,2
+Rob Roy,Cherry,,Garnish,1
+Rob Roy,Stir,,Method,1
+Rob Roy,Up,,Serve,1
+Algonquin Cocktail,Rye,,Ounce,2
+Algonquin Cocktail,Vermouth,Dry,Ounce,0.75
+Algonquin Cocktail,Pineapple Juice,,Ounce,0.5
+Algonquin Cocktail,Lemon Twist,,Garnish,1
+Algonquin Cocktail,Shake,,Method,1
+Algonquin Cocktail,Up,,Serve,1
+Arnaud's Special Cocktail,Scotch,Blended,Ounce,2
+Arnaud's Special Cocktail,Dubonnet Rouge,,Ounce,1
+Arnaud's Special Cocktail,Orange Bitters,,Dash,3
+Arnaud's Special Cocktail,Stir,,Method,1
+Arnaud's Special Cocktail,Up,,Serve,1
+Blinker,Rye,,Ounce,2
+Blinker,Grapefruit Juice,,Ounce,1
+Blinker,Raspberry Syrup,,Ounce,0.5
+Blinker,Shake,,Method,1
+Blinker,Up,,Serve,1
+Blue Moon,Gin,London Dry,Ounce,2
+Blue Moon,Lemon,,Ounce,0.75
+Blue Moon,Creme de Violette,,Ounce,0.5
+Blue Moon,Simple Syrup,,Ounce,0.25
+Blue Moon,Shake,,Method,1
+Blue Moon,Up,,Serve,1
+Brooklyn,Rye,,Ounce,2
+Brooklyn,Vermouth,Dry,Ounce,0.75
+Brooklyn,Amer Picon,,Ounce,0.25
+Brooklyn,Maraschino Liqueur,,Ounce,0.25
+Brooklyn,Lemon Twist,,Garnish,1
+Brooklyn,Stir,,Method,1
+Brooklyn,Up,,Serve,1
+Derby Cocktail,Bourbon,,Ounce,1
+Derby Cocktail,Vermouth,Sweet,Ounce,0.5
+Derby Cocktail,Curacao,,Ounce,0.5
+Derby Cocktail,Lime,,Ounce,0.75
+Derby Cocktail,Mint Sprig,,Garnish,1
+Derby Cocktail,Shake,,Method,1
+Derby Cocktail,Up,,Serve,1
+East India Cocktail,Cognac,,Ounce,2
+East India Cocktail,Raspberry Syrup,,Ounce,0.25
+East India Cocktail,Curacao,,Ounce,0.1667
+East India Cocktail,Maraschino Liqueur,,Ounce,0.1667
+East India Cocktail,Angostura Bitters,,Dash,1
+East India Cocktail,Shake,,Method,1
+East India Cocktail,Up,,Serve,1
+Ford Cocktail,Gin,Old Tom,Ounce,1
+Ford Cocktail,Vermouth,Dry,Ounce,1
+Ford Cocktail,Benedictine,,Ounce,0.1667
+Ford Cocktail,Orange Bitters,,Dash,3
+Ford Cocktail,Stir,,Method,1
+Ford Cocktail,Up,,Serve,1
+Ford Cocktail,Orange Twist,,Garnish,1
+Hanky Panky,Gin,,Ounce,1.5
+Hanky Panky,Vermouth,,Ounce,1.5
+Hanky Panky,Fernet Branca,,Ounce,0.1667
+Hanky Panky,Orange Twist,,Garnish,1
+Hanky Panky,Stir,,Method,1
+Hanky Panky,Up,,Serve,1
+Lion's Tail,Bourbon,,Ounce,2
+Lion's Tail,Lime,,Ounce,0.75
+Lion's Tail,Allspice Dram,,Ounce,0.5
+Lion's Tail,Simple Syrup,,Ounce,0.25
+Lion's Tail,Angostura Bitters,,Dash,2
+Lion's Tail,Shake,,Method,1
+Lion's Tail,Up,,Serve,1
+Park Avenue Cocktail,Gin,,Ounce,2
+Park Avenue Cocktail,Pineapple Juice,,Ounce,0.75
+Park Avenue Cocktail,Vermouth,Sweet,Ounce,0.75
+Park Avenue Cocktail,Curacao,,Ounce,0.25
+Park Avenue Cocktail,Shake,,Method,1
+Park Avenue Cocktail,Up,,Serve,1
+Pendennis Cocktail,Gin,,Ounce,2
+Pendennis Cocktail,Lime,,Ounce,0.75
+Pendennis Cocktail,Apricot Liqueur,,Ounce,0.5
+Pendennis Cocktail,Simple Syrup,,Ounce,0.25
+Pendennis Cocktail,Shake,,Method,1
+Pendennis Cocktail,Up,,Serve,1
+Pink Gin,Gin,Plymouth,Ounce,3
+Pink Gin,Angostura Bitters,,Dash,6
+Pink Gin,Shake,,Method,1
+Pink Gin,Up,,Serve,1
+Satan's Whiskers Cocktail,Gin,,Ounce,0.5
+Satan's Whiskers Cocktail,Vermouth,Dry,Ounce,0.5
+Satan's Whiskers Cocktail,Vermouth,Sweet,Ounce,0.5
+Satan's Whiskers Cocktail,Orange Juice,,Ounce,0.5
+Satan's Whiskers Cocktail,Curacao,,Ounce,0.25
+Satan's Whiskers Cocktail,Orange Bitters,,Ounce,0.1667
+Satan's Whiskers Cocktail,Shake,,Method,1
+Satan's Whiskers Cocktail,Up,,Serve,1
+Scofflaw,Rye,,Ounce,1.5
+Scofflaw,Vermouth,,Ounce,0.75
+Scofflaw,Lemon,,Ounce,0.75
+Scofflaw,Grenadine,,Ounce,0.75
+Scofflaw,Shake,,Method,1
+Scofflaw,Up,,Serve,1
+Widow's Kiss,Calvados,,Ounce,1.5
+Widow's Kiss,Green Chartreuse,,Ounce,0.75
+Widow's Kiss,Benedictine,,Ounce,0.75
+Widow's Kiss,Angostura Bitters,,Dash,2
+Widow's Kiss,Stir,,Method,1
+Widow's Kiss,Up,,Serve,1
+Tipperary,Whiskey,Irish,Ounce,1
+Tipperary,Vermouth,Sweet,Ounce,1
+Tipperary,Green Chartreuse,,Ounce,1
+Tipperary,Stir,,Method,1
+Tipperary,Up,,Serve,1
+Bijou,Gin,Plymouth,Ounce,1
+Bijou,Vermouth,Sweet,Ounce,1
+Bijou,Green Chartreuse,,Ounce,1
+Bijou,Orange Bitters,,Dash,1
+Bijou,Stir,,Method,1
+Bijou,Up,,Serve,1
+Bramble,Gin,,Ounce,2
+Bramble,Lemon,,Ounce,0.75
+Bramble,Simple Syrup,,Ounce,0.5
+Bramble,Creme de Mure,,Ounce,0.25
+Bramble,Shake,,Method,1
+Bramble,Crushed,,Serve,1
+La Louisiane,Rye,,Ounce,2
+La Louisiane,Vermouth,,Ounce,0.75
+La Louisiane,Benedictine,,Ounce,0.75
+La Louisiane,Absinthe,,Dash,3
+La Louisiane,Peychaud's Bitters,,Dash,3
+La Louisiane,Cherry,,Garnish,1
+La Louisiane,Stir,,Method,1
+La Louisiane,Up,,Serve,1
+Japanese Cocktail,Cognac,,Ounce,2
+Japanese Cocktail,Orgeat,,Ounce,0.5
+Japanese Cocktail,Angostura Bitters,,Dash,3
+Japanese Cocktail,Lemon Twist,,Garnish,1
+Japanese Cocktail,Stir,,Method,1
+Japanese Cocktail,Up,,Serve,1
+Clover Club,Gin,Plymouth,Ounce,1.5
+Clover Club,Vermouth,Dry,Ounce,0.5
+Clover Club,Lemon,,Ounce,0.5
+Clover Club,Raspberry Syrup,,Ounce,0.5
+Clover Club,Egg White,,Adjunct,1
+Clover Club,Shake,,Method,1
+Clover Club,Up,,Serve,1
+Martinez,Gin,Old Tom,Ounce,1.5
+Martinez,Vermouth,Sweet,Ounce,1.5
+Martinez,Maraschino Liqueur,,Ounce,0.1667
+Martinez,Angostura Bitters,,Dash,2
+Martinez,Stir,,Method,1
+Martinez,Up,,Serve,1
+Brainstorm,Whiskey,Irish,Ounce,2
+Brainstorm,Vermouth,Dry,Ounce,0.5
+Brainstorm,Benedictine,,Ounce,0.5
+Brainstorm,Stir,,Method,1
+Brainstorm,Up,,Serve,1
+Alaska,Gin,London Dry,Ounce,2
+Alaska,Yellow Chartreuse,,Ounce,0.75
+Alaska,Orange Bitters,,Dash,2
+Alaska,Lemon Twist,,Garnish,1
+Alaska,Stir,,Method,1
+Alaska,Up,,Serve,1
+Applejack Fix,Apple Brandy,,Ounce,2
+Applejack Fix,Lemon,,Ounce,0.75
+Applejack Fix,Raspberry Syrup,,Ounce,0.25
+Applejack Fix,Rich Simple Syrup,,Ounce,0.25
+Applejack Fix,Cherry,,Garnish,1
+Applejack Fix,Shake,,Method,1
+Applejack Fix,Crushed,,Serve,1
+Automobile,Gin,London Dry,Ounce,1
+Automobile,Scotch,Blended,Ounce,1
+Automobile,Vermouth,Sweet,Ounce,1
+Automobile,Orange Twist,,Garnish,1
+Automobile,Stir,,Method,1
+Automobile,Up,,Serve,1
+Baron,Gin,London Dry,Ounce,1.5
+Baron,Vermouth,Dry,Ounce,0.75
+Baron,Curacao,,Ounce,0.1667
+Baron,Vermouth,,Ounce,0.1667
+Baron,Lemon Twist,,Garnish,1
+Baron,Stir,,Method,1
+Baron,Up,,Serve,1
+Bentley,Calvados,,Ounce,1.5
+Bentley,Dubonnet Rouge,,Ounce,1.5
+Bentley,Orange Twist,,Garnish,1
+Bentley,Stir,,Method,1
+Bentley,Up,,Serve,1
+Bizzy Izzy Highball,Rye,,Ounce,1
+Bizzy Izzy Highball,Sherry,,Ounce,1
+Bizzy Izzy Highball,Pineapple Juice,,Ounce,1
+Bizzy Izzy Highball,Lemon,,Ounce,0.75
+Bizzy Izzy Highball,Simple Syrup,,Ounce,0.5
+Bizzy Izzy Highball,Angostura Bitters,,Dash,2
+Bizzy Izzy Highball,Lemon Wheel,,Garnish,1
+Bizzy Izzy Highball,Shake,,Method,1
+Bizzy Izzy Highball,Collins,,Serve,1
+Bronx,Gin,London Dry,Ounce,2
+Bronx,Vermouth,Sweet,Ounce,0.5
+Bronx,Vermouth,Dry,Ounce,0.5
+Bronx,Orange Juice,,Ounce,0.1667
+Bronx,Pineapple Juice,,Ounce,0.1667
+Bronx,Shake,,Method,1
+Bronx,Up,,Serve,1
+Cameron's Kick,Scotch,Blended,Ounce,1
+Cameron's Kick,Whiskey,Irish,Ounce,1
+Cameron's Kick,Lemon,,Ounce,0.75
+Cameron's Kick,Orgeat,,Ounce,0.5
+Cameron's Kick,Shake,,Method,1
+Cameron's Kick,Up,,Serve,1
+Claridge Cocktail,Gin,,Ounce,1.25
+Claridge Cocktail,Vermouth,,Ounce,1.25
+Claridge Cocktail,Apricot Liqueur,,Ounce,0.5
+Claridge Cocktail,Curacao,,Ounce,0.25
+Claridge Cocktail,Stir,,Method,1
+Claridge Cocktail,Up,,Serve,1
+Cloister Cocktail,Gin,London Dry,Ounce,1.5
+Cloister Cocktail,Yellow Chartreuse,,Ounce,0.5
+Cloister Cocktail,Grapefruit Juice,,Ounce,0.5
+Cloister Cocktail,Lemon,,Ounce,0.5
+Cloister Cocktail,Simple Syrup,,Ounce,0.25
+Cloister Cocktail,Shake,,Method,1
+Cloister Cocktail,Up,,Serve,1
+Cooperstown Cocktail,Gin,Old Tom,Ounce,2
+Cooperstown Cocktail,Vermouth,Dry,Ounce,0.75
+Cooperstown Cocktail,Mint Sprig,,Garnish,1
+Cooperstown Cocktail,Stir,,Method,1
+Cooperstown Cocktail,Up,,Serve,1
+Corpse Reviver #1,Cognac,,Ounce,1.5
+Corpse Reviver #1,Calvados,,Ounce,0.75
+Corpse Reviver #1,Vermouth,,Ounce,0.75
+Corpse Reviver #1,Orange Twist,,Garnish,1
+Corpse Reviver #1,Stir,,Method,1
+Corpse Reviver #1,Up,,Serve,1
+Death in the Afternoon,Absinthe,,Ounce,0.5
+Death in the Afternoon,Sparkling Wine,,Ounce,5
+Death in the Afternoon,Lemon Twist,,Garnish,1
+Death in the Afternoon,Stir,,Method,1
+Death in the Afternoon,Up,,Serve,1
+Diamondback,Rye,,Ounce,2
+Diamondback,Apple Brandy,,Ounce,0.75
+Diamondback,Yellow Chartreuse,,Ounce,0.75
+Diamondback,Stir,,Method,1
+Diamondback,Up,,Serve,1
+Dr. Funk,Rum,White,Ounce,1.5
+Dr. Funk,Lime,,Ounce,0.75
+Dr. Funk,Grenadine,,Ounce,0.75
+Dr. Funk,Absinthe,,Dash,4
+Dr. Funk,Seltzer,,Ounce,2
+Dr. Funk,Cherry,,Garnish,1
+Dr. Funk,Shake,,Method,1
+Dr. Funk,Collins,,Serve,1
+El Diablo,Tequila,Blanco,Ounce,2
+El Diablo,Creme de Cassis,,Ounce,0.25
+El Diablo,Lime,,Ounce,0.75
+El Diablo,Ginger Syrup,,Ounce,0.5
+El Diablo,Lime Wheel,,Garnish,1
+El Diablo,Seltzer,,Ounce,2
+El Diablo,Shake,,Method,1
+El Diablo,Collins,,Serve,1
+El Presidente,Rum,White,Ounce,2
+El Presidente,Vermouth,Dry,Ounce,1
+El Presidente,Curacao,,Ounce,0.25
+El Presidente,Grenadine,,Ounce,0.1667
+El Presidente,Orange Twist,,Garnish,1
+El Presidente,Stir,,Method,1
+El Presidente,Up,,Serve,1
+Fair and Warmer,Rum,White,Ounce,2
+Fair and Warmer,Vermouth,Sweet,Ounce,1
+Fair and Warmer,Curacao,,Ounce,0.1667
+Fair and Warmer,Orange Twist,,Garnish,1
+Fair and Warmer,Stir,,Method,1
+Fair and Warmer,Up,,Serve,1
+Ward 8,Rye,,Ounce,2
+Ward 8,Lemon,,Ounce,0.5
+Ward 8,Grenadine,,Ounce,0.75
+Ward 8,Orange Juice,,Ounce,0.25
+Ward 8,Shake,,Method,1
+Ward 8,Up,,Serve,1
